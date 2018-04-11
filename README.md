@@ -1,7 +1,7 @@
 # GDPR Real Consent Hack Day
 ![customer-commons-logo3](https://user-images.githubusercontent.com/2357755/38627860-f675d654-3d7d-11e8-9974-ca3ac83e2ea0.png)
 
-> [https://mitmedialab.github.io/Real-Consent-Hack-Day](https://mitmedialab.github.io/Real-Consent-Hack-Day)
+> [https://mitmedialab.github.io/Consent-HackDay](https://mitmedialab.github.io/Consent-HackDay)
 
 ## Where + When
 
