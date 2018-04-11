@@ -1,27 +1,25 @@
-# Real Consent Hack Day at the MIT Media Lab
+# GDPR Real Consent Hack Day
 
-* [https://mitmedialab.github.io/Real-Consent-Hack-Day](https://mitmedialab.github.io/Real-Consent-Hack-Day)
+> [https://mitmedialab.github.io/Real-Consent-Hack-Day](https://mitmedialab.github.io/Real-Consent-Hack-Day)
 
+## Where + When
 
-Okay, here’s a tentative agenda:
+Place: MIT Media Lab, room is: E14-5-514B
+Time: Thur, April 26th, 10:30am-6:30pm 
 
-Title (placeholder): GDPR Real Consent Hackathon
+## Tentative Agenda:
 
-Place: Media Lab from 10:30am-6:30pm on Thur, April 26th. The room is: E14-5-514B.
+### 10:30-11:30
 
-AGENDA
+* Check in — who’s here, who will join remotely, set-up
 
-10:30-11:30
+* User Controlled GDPR Consent Cookies IIW session summary
 
-Check in — who’s here, who will join remotely, set-up
+* GDPR Chessboard overview — where and what we can move on it before and after May 25
 
-User Controlled GDPR Consent Cookies IIW session summary
+* Cookie deep dive, including other possible approaches
 
-GDPR Chessboard overview — where and what we can move on it before and after May 25
-
-Cookie deep dive, including other possible approaches
-
-Review of allied efforts already in progress—
+* Review of allied efforts already in progress—
 
 	at Linux Journal
 	at Customer Commons
@@ -33,38 +31,38 @@ Review of allied efforts already in progress—
 	at browser makers
 	at add-on developers
 
-Decide what we’ll work on today and who does it.
+* Decide what we’ll work on today and who does it.
 
-We’ll get as much of this covered in advance of the hackathon as possible, so we don’t spend more than an hour on the above.
+* We’ll get as much of this covered in advance of the hackathon as possible, so we don’t spend more than an hour on the above.
 
-11:30 Order pizza or other delivered food.
+### 11:30-4:30
 
-11:30-4:30
+* 11:30 Order pizza or other delivered food.
 
-Hack.
+* Hack.
 
-4:30-6:00 
+### 4:30-6:00 
 
-Present hacks.
+* Present hacks.
 
-6:00-6:30
+### 6:00-6:30
 
-Decide milestones and who does what until May 25 and beyond.
+* Decide milestones and who does what until May 25 and beyond.
 
-Finish with evangelism plans: who will do what, and when, after the hackathon.
+* Finish with evangelism plans: who will do what, and when, after the hackathon.
 
 
-Prep links:
+# Prep links:
 
-[IIW 26 Session Notes](https://www.google.com/url?q=http://iiw.idcommons.net/IIW_26_Session_Notes&sa=D&ust=1523464528093000) wiki
+* [IIW 26 Session Notes](https://www.google.com/url?q=http://iiw.idcommons.net/IIW_26_Session_Notes&sa=D&ust=1523464528093000) wiki
 
-[Photos from the session, including the whiteboard](https://www.google.com/url?q=https://www.flickr.com/photos/docsearls/26506762657/in/album-72157694778829834/&sa=D&ust=1523464528093000) (note that some parts were erased and re-written)
+* [Photos from the session, including the whiteboard](https://www.google.com/url?q=https://www.flickr.com/photos/docsearls/26506762657/in/album-72157694778829834/&sa=D&ust=1523464528093000) (note that some parts were erased and re-written)
 
-[User-Controlled GDPR Consent Cookie notes](https://www.google.com/url?q=http://iiw.idcommons.net/User-Controlled_GDPR_Consent_Cookie&sa=D&ust=1523464528093000) by Scott Mace, on the wiki
+* [User-Controlled GDPR Consent Cookie notes](https://www.google.com/url?q=http://iiw.idcommons.net/User-Controlled_GDPR_Consent_Cookie&sa=D&ust=1523464528093000) by Scott Mace, on the wiki
 
-[IAB Europe](https://www.google.com/url?q=https://www.iabeurope.eu/&sa=D&ust=1523464528094000): [https://www.iabeurope.eu/](https://www.google.com/url?q=https://www.iabeurope.eu/&sa=D&ust=1523464528094000)
+* [IAB Europe](https://www.google.com/url?q=https://www.iabeurope.eu/&sa=D&ust=1523464528094000): [https://www.iabeurope.eu/](https://www.google.com/url?q=https://www.iabeurope.eu/&sa=D&ust=1523464528094000)
 
-IAB Europe’s [THE ADVERTISING INDUSTRY’S GDPR TRANSPARENCY & CONSENT FRAMEWORK site](https://www.google.com/url?q=http://advertisingconsent.eu/&sa=D&ust=1523464528095000): [http://advertisingconsent.eu/](https://www.google.com/url?q=http://advertisingconsent.eu/&sa=D&ust=1523464528095000)
+* IAB Europe’s [THE ADVERTISING INDUSTRY’S GDPR TRANSPARENCY & CONSENT FRAMEWORK site](https://www.google.com/url?q=http://advertisingconsent.eu/&sa=D&ust=1523464528095000): [http://advertisingconsent.eu/](https://www.google.com/url?q=http://advertisingconsent.eu/&sa=D&ust=1523464528095000)
 
 There are six resource documents at that page. The relevant ones:
 
