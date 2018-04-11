@@ -49,20 +49,15 @@ Time: Thur, April 26th, 10:30am-6:30pm
 ### 6:00-6:30
 
 * Decide milestones and who does what until May 25 and beyond.
-
 * Finish with evangelism plans: who will do what, and when, after the hackathon.
 
 
 # Prep Links
 
 * [IIW 26 Session Notes](https://www.google.com/url?q=http://iiw.idcommons.net/IIW_26_Session_Notes&sa=D&ust=1523464528093000) wiki
-
 * [Photos from the session, including the whiteboard](https://www.google.com/url?q=https://www.flickr.com/photos/docsearls/26506762657/in/album-72157694778829834/&sa=D&ust=1523464528093000) (note that some parts were erased and re-written)
-
 * [User-Controlled GDPR Consent Cookie notes](https://www.google.com/url?q=http://iiw.idcommons.net/User-Controlled_GDPR_Consent_Cookie&sa=D&ust=1523464528093000) by Scott Mace, on the wiki
-
 * [IAB Europe](https://www.google.com/url?q=https://www.iabeurope.eu/&sa=D&ust=1523464528094000): [https://www.iabeurope.eu/](https://www.google.com/url?q=https://www.iabeurope.eu/&sa=D&ust=1523464528094000)
-
 * IAB Europe’s [THE ADVERTISING INDUSTRY’S GDPR TRANSPARENCY & CONSENT FRAMEWORK site](https://www.google.com/url?q=http://advertisingconsent.eu/&sa=D&ust=1523464528095000): [http://advertisingconsent.eu/](https://www.google.com/url?q=http://advertisingconsent.eu/&sa=D&ust=1523464528095000)
 
 There are six resource documents at that page. The relevant ones:
