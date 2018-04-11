@@ -8,7 +8,7 @@
 Place: MIT Media Lab, room is: E14-5-514B
 Time: Thur, April 26th, 10:30am-6:30pm 
 
-## Tentative Agenda:
+## Tentative Agenda
 
 ### 10:30-11:30
 
@@ -53,7 +53,7 @@ Time: Thur, April 26th, 10:30am-6:30pm
 * Finish with evangelism plans: who will do what, and when, after the hackathon.
 
 
-# Prep links:
+# Prep Links
 
 * [IIW 26 Session Notes](https://www.google.com/url?q=http://iiw.idcommons.net/IIW_26_Session_Notes&sa=D&ust=1523464528093000) wiki
 
