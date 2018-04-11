@@ -73,3 +73,7 @@ There are six resource documents at that page. The relevant ones:
 4.  [PRESENTATION SLIDES](https://www.google.com/url?q=http://advertisingconsent.eu/wp-content/uploads/2018/03/Transparency-Consent-Framework-Presentation-Website.pdf&sa=D&ust=1523464528098000)
 5.  [WEBINAR SERIES](https://www.google.com/url?q=https://register.gotowebinar.com/rt/8917673009195155715&sa=D&ust=1523464528098000)
 6.  [WEBINAR VIDEO](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DwP93HO88cgw%26feature%3Dyoutu.be&sa=D&ust=1523464528099000)
+
+--------------
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wP93HO88cgw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
