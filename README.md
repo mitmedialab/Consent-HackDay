@@ -2,6 +2,7 @@
 ![customer-commons-logo3](https://user-images.githubusercontent.com/2357755/38627860-f675d654-3d7d-11e8-9974-ca3ac83e2ea0.png)
 
 > [https://mitmedialab.github.io/Consent-HackDay](https://mitmedialab.github.io/Consent-HackDay)
+> * **Register Here**: [ https://www.eventbrite.com/e/user-controlled-gdpr-real-consent-hack-day-tickets-45152671857]( https://www.eventbrite.com/e/user-controlled-gdpr-real-consent-hack-day-tickets-45152671857)
 
 ## Where + When
 
