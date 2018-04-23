@@ -4,6 +4,10 @@
 > [https://mitmedialab.github.io/Consent-HackDay](https://mitmedialab.github.io/Consent-HackDay)
 > * **Register Here**: [ https://www.eventbrite.com/e/user-controlled-gdpr-real-consent-hack-day-tickets-45152671857]( https://www.eventbrite.com/e/user-controlled-gdpr-real-consent-hack-day-tickets-45152671857)
 
+## Livestream
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oipHaA1FWWA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## Where + When
 
 Place: MIT Media Lab, room is: E14-5-514B
