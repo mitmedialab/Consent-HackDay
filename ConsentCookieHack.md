@@ -443,7 +443,7 @@
 
 <td class="c10" colspan="1" rowspan="1">
 
-<span class="c11 c25">Customer Commons Says</span>
+<span class="c11 c25">Customer Commons Translates to</span>
 
 </td>
 
