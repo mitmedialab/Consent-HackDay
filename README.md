@@ -44,7 +44,7 @@ Time: Thur, April 26th, 10:30am-6:30pm
 
 ### 11:30-4:30
 
-* 11:30 Order pizza or other delivered food.
+* 11:30 Order pizza or other food for delivery.
 
 * Hack.
 
