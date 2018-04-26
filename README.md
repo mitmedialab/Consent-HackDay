@@ -6,6 +6,10 @@
 > * **LiveNotes:** [https://hackmd.io/Zah5f35zQBSBSwWgF1HXmw](https://hackmd.io/Zah5f35zQBSBSwWgF1HXmw)
 > * **Archive of Notes from HackDay!:** [https://mitmedialab.github.io/Consent-HackDay/April-26-2018-HackDayNotes.html](https://mitmedialab.github.io/Consent-HackDay/April-26-2018-HackDayNotes.html) and [https://mitmedialab.github.io/Consent-HackDay/consentcookiehack.html](https://mitmedialab.github.io/Consent-HackDay/consentcookiehack.html)
 
+# Repo with Customer Cookie Prototype
+
+* [https://github.com/mitmedialab/ConsentCookieManager](https://github.com/mitmedialab/ConsentCookieManager)
+
 ## Livestream
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oipHaA1FWWA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
