@@ -3,6 +3,7 @@
 
 > [https://mitmedialab.github.io/Consent-HackDay](https://mitmedialab.github.io/Consent-HackDay)
 > * **Register Here**: [ https://www.eventbrite.com/e/user-controlled-gdpr-real-consent-hack-day-tickets-45152671857]( https://www.eventbrite.com/e/user-controlled-gdpr-real-consent-hack-day-tickets-45152671857)
+> * **LiveNotes:** [https://hackmd.io/Zah5f35zQBSBSwWgF1HXmw](https://hackmd.io/Zah5f35zQBSBSwWgF1HXmw)
 
 ## Livestream
 
