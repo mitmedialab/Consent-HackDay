@@ -4,7 +4,7 @@
 > [https://mitmedialab.github.io/Consent-HackDay](https://mitmedialab.github.io/Consent-HackDay)
 > * **Register Here**: [ https://www.eventbrite.com/e/user-controlled-gdpr-real-consent-hack-day-tickets-45152671857]( https://www.eventbrite.com/e/user-controlled-gdpr-real-consent-hack-day-tickets-45152671857)
 > * **LiveNotes:** [https://hackmd.io/Zah5f35zQBSBSwWgF1HXmw](https://hackmd.io/Zah5f35zQBSBSwWgF1HXmw)
-> * **Archive of Notes from HackDay!:** [https://mitmedialab.github.io/Consent-HackDay/April-26-2018-HackDayNotes.html](https://mitmedialab.github.io/Consent-HackDay/April-26-2018-HackDayNotes.html)
+> * **Archive of Notes from HackDay!:** [https://mitmedialab.github.io/Consent-HackDay/April-26-2018-HackDayNotes.html](https://mitmedialab.github.io/Consent-HackDay/April-26-2018-HackDayNotes.html) and [https://mitmedialab.github.io/Consent-HackDay/consentcookiehack.html](https://mitmedialab.github.io/Consent-HackDay/consentcookiehack.html)
 
 ## Livestream
 
