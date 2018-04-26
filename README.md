@@ -6,6 +6,10 @@
 > * **LiveNotes:** [https://hackmd.io/Zah5f35zQBSBSwWgF1HXmw](https://hackmd.io/Zah5f35zQBSBSwWgF1HXmw)
 > * **Archive of Notes from HackDay!:** [https://mitmedialab.github.io/Consent-HackDay/April-26-2018-HackDayNotes.html](https://mitmedialab.github.io/Consent-HackDay/April-26-2018-HackDayNotes.html) and [https://mitmedialab.github.io/Consent-HackDay/consentcookiehack.html](https://mitmedialab.github.io/Consent-HackDay/consentcookiehack.html)
 
+# Followup Event
+
+* We will followup with more refined work at the [May 24, 2018 Media Lab GDPR Sunrise Eve Event](https://mitmedialab.github.io/GDPR-Customer-Cookie)
+
 # Repo with Customer Cookie Prototype
 
 * [https://github.com/mitmedialab/ConsentCookieManager](https://github.com/mitmedialab/ConsentCookieManager)
