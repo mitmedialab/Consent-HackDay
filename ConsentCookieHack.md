@@ -437,7 +437,7 @@
 
 <td class="c10" colspan="1" rowspan="1">
 
-<span class="c25 c11">IAB E Says</span>
+<span class="c25 c11">IAB E Translates to</span>
 
 </td>
 
