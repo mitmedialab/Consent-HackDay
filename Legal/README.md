@@ -19,3 +19,7 @@ Relevant GDPR:
 [Article 6.1.a (how consent makes processing legal)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e1888-1-1)
 
 [Article 7 (requirements for consent)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2001-1-1)
+
+[Article 8 (special requirements for children)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2029-1-1)
+
+[Article 7 (additional protection for special types of data)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2051-1-1)
