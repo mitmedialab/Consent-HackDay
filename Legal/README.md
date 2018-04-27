@@ -1,3 +1,3 @@
 Placeholder
 
-link to GDPR
+[GDPR]Consent-HackDay/Legal/GDPR Markup.pdf
