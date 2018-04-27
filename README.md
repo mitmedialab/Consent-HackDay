@@ -67,6 +67,8 @@ Time: Thur, April 26th, 10:30am-6:30pm
 * Finish with evangelism plans: who will do what, and when, after the hackathon.
 
 
+[Legal Directory](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/README.md)
+
 # Prep Links
 
 * [IIW 26 Session Notes](https://www.google.com/url?q=http://iiw.idcommons.net/IIW_26_Session_Notes&sa=D&ust=1523464528093000) wiki
