@@ -10,7 +10,7 @@ What are the requirements of GDPR’s certification idea and how could we satisf
 What are the transparent icons GDPR speaks about, who defines them (UI task)?
 
 
-Relevant GDPR:
+Relevant GDPR articles for the cookie: 
 
 [Article 4.11 (consent definition)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e1489-1-1)
 
@@ -22,4 +22,10 @@ Relevant GDPR:
 
 [Article 8 (special requirements for children)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2029-1-1)
 
-[Article 7 (additional protection for special types of data)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2051-1-1)
+[Article 9 (additional protection for special types of data)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2051-1-1)
+
+[Article 12 (requirements for communication)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2182-1-1)
+
+[Article 13 (info the data subject needs to get)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2254-1-1)
+
+
