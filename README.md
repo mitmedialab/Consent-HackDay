@@ -8,7 +8,7 @@
 
 # Followup Event
 
-* We will followup with more refined work at the [May 24, 2018 Media Lab GDPR Sunrise Eve Event](https://mitmedialab.github.io/GDPR-Customer-Cookie)
+* We will followup with more refined work at the May 24th MIT GDPR Consent Cookie follow up event
 
 # Repo with Customer Cookie Prototype
 
