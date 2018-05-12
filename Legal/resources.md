@@ -20,3 +20,7 @@ Overview of the important articles here: https://github.com/mitmedialab/Consent-
 ### cartoon GDPR phases 
 
 * https://teachprivacy.com/four-phases-of-developing-a-gdpr-program 
+
+### PwC Guide to GDPR
+
+* pwc.com/us/en/cybersecurity/general-data-protection-regulation.html
