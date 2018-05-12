@@ -23,4 +23,4 @@ Overview of the important articles here: https://github.com/mitmedialab/Consent-
 
 ### PwC Guide to GDPR
 
-* pwc.com/us/en/cybersecurity/general-data-protection-regulation.html
+* [pwc.com/us/en/cybersecurity/general-data-protection-regulation.html](pwc.com/us/en/cybersecurity/general-data-protection-regulation.html)
