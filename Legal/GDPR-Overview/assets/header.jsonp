@@ -1,0 +1,41 @@
+local_header( {
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-0-12 15:5:4",
+  "loopSlideshow" : 0,
+  "filename" : "GDPR Overview",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "GDPR Overview",
+  "showMode" : 0,
+  "creator" : "Apple Keynote 8.0.1",
+  "slideList" : [
+    "7483A8FA-A852-4C5F-B472-EA13E3DD558E",
+    "16BCB64E-391C-4519-8D01-2137EDBD0C9F",
+    "03447872-4C4D-43D0-8051-4CFDAA8268B4",
+    "2D3F27BE-B547-41B1-9978-EBA23E7F4365",
+    "3FB3FE7E-548F-403A-A892-7757A3378B2E",
+    "5262A946-FEAE-4986-B048-F397A932C6A4",
+    "70344BFD-02C1-47E6-8C8C-9B019D2A877B",
+    "A23ABA7E-3FBC-41C4-8A63-E8E7185BFDE5",
+    "FBEC0341-E2B3-4BA8-82E4-EAF61C6922E5",
+    "057B04BB-16BF-4486-9B6D-A1BFE0CA4023"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 960,
+  "slideHeight" : 540,
+  "slideCount" : 10,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "TrebuchetMS",
+    "ArialMT",
+    "TrebuchetMS-Bold",
+    "HelveticaNeue",
+    "Trebuchet-BoldItalic",
+    "Helvetica"
+  ]
+} )
