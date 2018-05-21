@@ -2,13 +2,15 @@
 
 ### Chapter 1: General Provisions
 
-#### [Article 1: Subject matter and objectives](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e1384-1-1)
+[Article 1: Subject matter and objectives](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e1384-1-1)
 
 [Article 2: Material scope](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e1404-1-1)
 
 [Article 3: Territorial scope](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e1455-1-1)
 
-[Article 4: Definitions](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e1489-1-1)
+#### [Article 4: Definitions](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e1489-1-1)
+#### [Article 4: Definitions](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e1489-1-1)
+
 
 ### Chapter 2: Principles
 
