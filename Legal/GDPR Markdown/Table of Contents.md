@@ -24,8 +24,10 @@
 * [Analysis Article 7](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%207.md)
 
 [Article 8: Conditions applicable to child's consent in relation to information society services](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2029-1-1)
+* [Analysis Article 8](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%208.md)
 
 [Article 9: Processing of special categories of personal data](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2051-1-1)
+* [Analysis Article 9](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%209.md)
 
 [Article 10: Processing of data relating to criminal convictions and offences](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2138-1-1)
 
@@ -123,14 +125,17 @@
 [Article 44: General Principle for transfer](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e4237-1-1)
 
 [Article 45: Transfers of the basis of an adequacy decision](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e4244-1-1)
+* [Analysis Article 45](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%2045.md)
 
 [Article 46: Transfers subject to appropriate safeguards](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e4319-1-1)
+* [Analysis Article 46](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%2046.md)
 
 [Article 47: Binding corporate rules](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e4401-1-1)
 
 [Article 48: Transfers or disclosures not authorised by union law](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e4528-1-1)
 
 [Article 49: Derogations for specific situations](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e4535-1-1)
+* [Analysis Article 49](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%2049.md)
 
 [Article 50: International cooperation for the protection of personal data](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e4616-1-1)
 
@@ -154,6 +159,7 @@
 [Article 58: Powers](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e5059-1-1)
 
 [Article 59: Activity Reports](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e5256-1-1)
+* [Analysis Article 59](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%2059.md)
 
 ### Chapter 7: Co-operation and Consistency
 
@@ -210,6 +216,7 @@
 * [Analysis Article 82](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%2082.md)
 
 [Article 83: General conditions for imposing administrative fines](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e6226-1-1)
+* [Analysis Article 83](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%2083.md)
 
 [Article 84: Penalties](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e6408-1-1)
 
