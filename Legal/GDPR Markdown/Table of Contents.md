@@ -21,7 +21,7 @@
 * [Analysis Article 6](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%206.md)
 
 [Article 7: Conditions for consent](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2001-1-1)
-* [Article 7: Conditions for consent](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2001-1-1)
+* [Analysis Article 7](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%207.md)
 
 [Article 8: Conditions applicable to child's consent in relation to information society services](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2029-1-1)
 
@@ -36,6 +36,7 @@
 [Article 12: Transparent information, communication and modalities for the exercise of the rights of the data subject](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2182-1-1)
 
 [Article 13: Information to be provided where personal data are collected from the data subject](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2254-1-1)
+* [Analysis Article 13](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%2013.md)
 
 [Article 14: Information to be provided where personal data have not been obtained from the data subject](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2355-1-1)
 
