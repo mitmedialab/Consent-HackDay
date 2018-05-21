@@ -1,4 +1,4 @@
-# Article 5 - Definitions
+# Article 5 - Principles relating to processing of personal data
 
 ### [Return to Table of Contents](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Table%20of%20Contents.md)
 
