@@ -10,7 +10,9 @@ What are the requirements of GDPR’s certification idea and how could we satisf
 What are the transparent icons GDPR speaks about, who defines them (UI task)?
 
 
-Relevant GDPR articles for the cookie: 
+GDPR Markdown with Deep Links:
+
+### Chapter 1: General Provisions
 
 [Article 1: Subject matter and objectives](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e1384-1-1)
 
@@ -19,6 +21,8 @@ Relevant GDPR articles for the cookie:
 [Article 3: Territorial scope](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e1455-1-1)
 
 [Article 4: Definitions](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e1489-1-1)
+
+### Chapter 2: Principles
 
 [Article 5: Principles relating to personal data processing](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e1807-1-1)
 
@@ -33,6 +37,8 @@ Relevant GDPR articles for the cookie:
 [Article 10: Processing of data relating to criminal convictions and offences](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2138-1-1)
 
 [Article 11: Processing which does not require identification](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2145-1-1)
+
+### Chapter 3: Rights of the Data Subject
 
 [Article 12: Transparent information, communication and modalities for the exercise of the rights of the data subject](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2182-1-1)
 
@@ -57,6 +63,8 @@ Relevant GDPR articles for the cookie:
 [Article 22: Automated individual decision-making, including profiling](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2838-1-1)
 
 [Article 23: Restrictions](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2894-1-1)
+
+### Chapter 4: Controller and Processor
 
 [Article 24: Responsibility of the controller](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e3043-1-1)
 
@@ -98,6 +106,8 @@ Relevant GDPR articles for the cookie:
 
 [Article 43: Certification Bodies](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e4120-1-1)
 
+### Chapter 5: Transfer of personal data to third countries of international organizations
+
 [Article 44: General Principle for transfer](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e4237-1-1)
 
 [Article 45: Transfers of the basis of an adequacy decision](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e4244-1-1)
@@ -110,7 +120,11 @@ Relevant GDPR articles for the cookie:
 
 [Article 49: Derogations for specific situations](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e4535-1-1)
 
-[Article 50: International cooperation for the protection of personal data](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e4616-1-1)[Article 51: Supervisory Authority](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e4671-1-1)
+[Article 50: International cooperation for the protection of personal data](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e4616-1-1)
+
+### Chapter 6: Independent Supervisory Authorities
+
+[Article 51: Supervisory Authority](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e4671-1-1)
 
 [Article 52: Independence](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e4703-1-1)
 
@@ -127,6 +141,8 @@ Relevant GDPR articles for the cookie:
 [Article 58: Powers](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e5059-1-1)
 
 [Article 59: Activity Reports](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e5256-1-1)
+
+### Chapter 7: Co-operation and Consistency
 
 [Article 60: Cooperation between the lead supervisory authority and the other supervisory authorities concerned](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e5285-1-1)
 
@@ -162,6 +178,8 @@ Relevant GDPR articles for the cookie:
 
 [Article 76: Confidentiality](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e6065-1-1)
 
+### Chapter 8: Remedies, Liability, and Sanctions
+
 [Article 77: Right to lodge a complaint with a supervisory authority](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e6101-1-1)
 
 [Article 78: Right to an effective judicial remedy against a supervisory authority](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e6116-1-1)
@@ -178,6 +196,8 @@ Relevant GDPR articles for the cookie:
 
 [Article 84: Penalties](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e6408-1-1)
 
+### Chapter 9: Provisions relating to specific data processing situations
+
 [Article 85: Processing and freedom of expression and information](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e6437-1-1)
 
 [Article 86: Processing and public access to offical documents](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e6457-1-1)
@@ -188,11 +208,17 @@ Relevant GDPR articles for the cookie:
 
 [Article 89: Safeguards and derogations relating to processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e6494-1-1)
 
-[Article 90: Obligations of secrecy](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e6519-1-1)[Article 91: Existing data protection rules of churches and religious associations](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e6537-1-1)
+[Article 90: Obligations of secrecy](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e6519-1-1)
+
+[Article 91: Existing data protection rules of churches and religious associations](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e6537-1-1)
+
+### Chapter 10: Delegated Acts and Implementing Acts
 
 [Article 92: Exercise of the delegation](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e6563-1-1)
 
 [Article 93: Committee procedure](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e6599-1-1)
+
+### Chapter 11: Final provisions
 
 [Article 94: Repeal of Directive 95/46/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e6630-1-1)
 
