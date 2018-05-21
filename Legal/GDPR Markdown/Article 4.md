@@ -105,4 +105,5 @@ processing of personal data which takes place in the context of the activities o
 (26)
 ‘international organisation’ means an organisation and its subordinate bodies governed by public international law, or any other body which is set up by, or on the basis of, an agreement between two or more countries.
 
+
 ## Comments
