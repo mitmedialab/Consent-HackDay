@@ -41,20 +41,27 @@
 [Article 14: Information to be provided where personal data have not been obtained from the data subject](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2355-1-1)
 
 [Article 15: Right of access by the data subject](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2513-1-1)
+* [Analysis Article 15](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%2015.md)
 
 [Article 16: Right to rectification](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2599-1-1)
+* [Analysis Article 16](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%2016.md)
 
 [Article 17: Right to erasure ('right to be forgotten')](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2606-1-1)
+* [Analysis Article 17](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%2017.md)
 
 [Article 18: Right to restriction of processing](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2700-1-1)
+* [Analysis Article 18](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%2018.md)
 
 [Article 19: Notification obligation regarding rectification or erasure of personal data or restriction of processing](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2746-1-1)
 
 [Article 20: Right to data portability](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2753-1-1)
+* [Analysis Article 20](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%2013.md)
 
 [Article 21: Right to object](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2803-1-1)
+* [Analysis Article 21](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%2013.md)
 
 [Article 22: Automated individual decision-making, including profiling](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2838-1-1)
+* [Analysis Article 22](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%2013.md)
 
 [Article 23: Restrictions](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2894-1-1)
 
@@ -63,26 +70,33 @@
 [Article 24: Responsibility of the controller](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e3043-1-1)
 
 [Article 25: Data protection by design and by default](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e3063-1-1)
+* [Analysis Article 25](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%2025.md)
 
 [Article 26: Joint controllers](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e3083-1-1)
 
 [Article 27:  Representatives of controllers not established in the Union](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e3106-1-1)
+* [Analysis Article 27](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%2027.md)
 
 [Article 28: Processor](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e3150-1-1)
 
 [Article 29: Processing under the authority of the controller or processor](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e3258-1-1)
 
 [Article 30: Records of processing activities](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e3265-1-1)
+* [Analysis Article 30](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%2030.md)
 
 [Article 31: Cooperation with the supervisory authority](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e3365-1-1)
 
 [Article 32: Security of processing](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e3383-1-1)
+* [Analysis Article 32](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%2032.md)
 
 [Article 33: Notification of a personal data breach to the supervisory authority](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e3434-1-1)
+* [Analysis Article 33](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%2033.md)
 
 [Article 34: Communication of a personal data breach to the data subject](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e3490-1-1)
+* [Analysis Article 34](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%2034.md)
 
 [Article 35: Data protection impact assessment](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e3546-1-1)
+* [Analysis Article 35](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%2035.md)
 
 [Article 36: Prior Consultation](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e3653-1-1)
 
@@ -93,12 +107,16 @@
 [Article 39: Tasks of the data protection officer](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e3827-1-1)
 
 [Article 40: Codes of Conduct](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e3885-1-1)
+* [Analysis Article 40](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%2040.md)
 
 [Article 41: Monitoring of approved codes of conduct](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e4014-1-1)
+* [Analysis Article 41](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%2041.md)
 
 [Article 42: Certification](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e4075-1-1)
+* [Analysis Article 42](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%2042.md)
 
 [Article 43: Certification Bodies](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e4120-1-1)
+* [Analysis Article 43](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%2043.md)
 
 ### Chapter 5: Transfer of personal data to third countries of international organizations
 
@@ -131,6 +149,7 @@
 [Article 56: Competence of the lead supervisory authority](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e4864-1-1)
 
 [Article 57: Tasks](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e4899-1-1)
+* [Analysis Article 57](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%2057.md)
 
 [Article 58: Powers](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e5059-1-1)
 
@@ -175,16 +194,20 @@
 ### Chapter 8: Remedies, Liability, and Sanctions
 
 [Article 77: Right to lodge a complaint with a supervisory authority](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e6101-1-1)
+* [Analysis Article 77](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%2077.md)
 
 [Article 78: Right to an effective judicial remedy against a supervisory authority](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e6116-1-1)
+* [Analysis Article 78](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%2078.md)
 
 [Article 79: Right to an effective judicial remedy against a controller or processor](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e6141-1-1)
+* [Analysis Article 79](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%2079.md)
 
 [Article 80: Representation of data subjects](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e6156-1-1)
 
 [Article 81: Suspension of proceedings](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e6171-1-1)
 
 [Article 82: Right to compensation and liability](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e6191-1-1)
+* [Analysis Article 82](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%2082.md)
 
 [Article 83: General conditions for imposing administrative fines](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e6226-1-1)
 
