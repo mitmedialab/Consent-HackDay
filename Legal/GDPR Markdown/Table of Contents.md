@@ -8,7 +8,7 @@
 
 [Article 3: Territorial scope](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e1455-1-1)
 
-#### [Article 4: Definitions](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e1489-1-1)#### [Analysis Article 4](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%204.md)
+#### [Article 4: Definitions](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e1489-1-1)[ Analysis Article 4](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%204.md)
 
 
 ### Chapter 2: Principles
