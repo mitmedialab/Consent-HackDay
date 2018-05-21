@@ -18,7 +18,7 @@
 * [Analysis Article 5](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%205.md)
 
 [Article 6: Lawfulness of processing](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e1888-1-1)
-* [Analysis Article 6](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e1888-1-1)
+* [Analysis Article 6](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Article%206.md)
 
 [Article 7: Conditions for consent](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2001-1-1)
 * [Article 7: Conditions for consent](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2001-1-1)
