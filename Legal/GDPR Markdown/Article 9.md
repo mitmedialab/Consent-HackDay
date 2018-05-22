@@ -1,8 +1,8 @@
 # Article 9 - Processing of special categories of personal data
 
-### [Return to Table of Contents](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Table%20of%20Contents.md)
+### [Return to Table of Contents](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/1.%20Table%20of%20Contents.md)
 
-### [GDPR Text](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2138-1-1)
+### [GDPR Text](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2051-1-1)
 
 1.   Processing of personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation shall be prohibited.
 
