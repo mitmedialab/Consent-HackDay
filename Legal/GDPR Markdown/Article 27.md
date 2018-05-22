@@ -2,7 +2,7 @@
 
 ### [Return to Table of Contents](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/1.%20Table%20of%20Contents.md)
 
-### [GDPR Text](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e1489-1-1)
+### [GDPR Text](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e3106-1-1)
 
 1.   Where Article 3(2) applies, the controller or the processor shall designate in writing a representative in the Union.
 
