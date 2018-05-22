@@ -1,6 +1,6 @@
 # Article 15 - Right of access by the data subject
 
-### [Return to Table of Contents](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Table%20of%20Contents.md)
+### [Return to Table of Contents](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/1.%20Table%20of%20Contents.md)
 
 ### [GDPR Text](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e2513-1-1)
 
