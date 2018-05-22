@@ -1,10 +1,8 @@
-# Article 4 - Definitions
+# Article 4 - Certification bodies
 
-### [Return to Table of Contents](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/Table%20of%20Contents.md)
+### [Return to Table of Contents](https://github.com/mitmedialab/Consent-HackDay/blob/master/Legal/GDPR%20Markdown/1.%20Table%20of%20Contents.md)
 
 ### [GDPR Text](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN#d1e4120-1-1)
-
-Certification bodies
 
 1.   Without prejudice to the tasks and powers of the competent supervisory authority under Articles 57 and 58, certification bodies which have an appropriate level of expertise in relation to data protection shall, after informing the supervisory authority in order to allow it to exercise its powers pursuant to point (h) of Article 58(2) where necessary, issue and renew certification. Member States shall ensure that those certification bodies are accredited by one or both of the following:
 
